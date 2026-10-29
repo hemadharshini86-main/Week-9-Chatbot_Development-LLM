@@ -1,0 +1,22 @@
+
+question_id,question,category
+1,Hello,General
+2,What is artificial intelligence?,AI Basics
+3,What is machine learning?,AI Basics
+4,What is a chatbot?,AI Basics
+5,What is Python programming?,Programming
+6,What are Python variables?,Programming
+7,What is a Python function?,Programming
+8,What is a large language model?,AI Basics
+9,What is Ollama?,AI Tools
+10,How does a chatbot work?,AI Basics
+11,What is natural language processing?,AI Basics
+12,What is deep learning?,AI Basics
+13,What is a dataset?,Data Science
+14,What is pandas in Python?,Programming
+15,What is a CSV file?,Data Science
+16,What is data analysis?,Data Science
+17,What is prompt engineering?,AI Basics
+18,What are the limitations of chatbots?,AI Basics
+19,How can I improve a chatbot?,AI Development
+20,Give me a simple Python learning tip,Programming
